@@ -1,0 +1,5 @@
+{
+  "name": "Aakash Furniture Invoice System",
+  "description": "A professional invoicing application for Aakash Furniture with PDF generation, dashboard analytics, and local storage persistence.",
+  "requestFramePermissions": []
+}
